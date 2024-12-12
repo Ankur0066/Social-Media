@@ -2,8 +2,6 @@
 
 ![Web's preview](./client/public/banner.png)
 
-Live: [**https://mern-social-media-app.onrender.com**](https://mern-social-media-app.onrender.com)
-
 ## 🚀 Technologies Used
 
 - Frontend
